@@ -6,9 +6,12 @@
 //
 
 #include <iostream>
+#include "Solution19.hpp"
+
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    std::cout << "Hello, World!\n";
+    SolutionResolver *solution = new Solution19();
+    solution->generateSolution();
     return 0;
 }
