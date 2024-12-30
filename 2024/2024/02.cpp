@@ -5,15 +5,11 @@
 //  Created by Jingfu Ju on 12/30/24.
 //
 
-
-
-
 #include <iostream>
 #include <fstream>
 #include <sstream>
 #include <vector>
 #include <string>
-
 
 #include "02.hpp"
 
