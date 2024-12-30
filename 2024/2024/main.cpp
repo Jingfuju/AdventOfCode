@@ -7,11 +7,12 @@
 
 #include <iostream>
 #include "Solution19.hpp"
+#include "Solution01.hpp"
 
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    SolutionResolver *solution = new Solution19();
+    Solution01 *solution = new Solution01();
     solution->generateSolution();
     return 0;
 }
