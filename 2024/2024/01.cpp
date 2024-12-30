@@ -11,7 +11,7 @@
 #include <vector>
 #include <string>
 
-#include "Solution01.hpp"
+#include "01.hpp"
 
 using namespace std;
 

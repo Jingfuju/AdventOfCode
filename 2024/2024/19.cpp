@@ -15,7 +15,7 @@
 #include <regex>
 #include <assert.h>
 
-#include "Solution19.hpp"
+#include "19.hpp"
 
 using namespace std;
 

@@ -6,13 +6,14 @@
 //
 
 #include <iostream>
-#include "Solution19.hpp"
-#include "Solution01.hpp"
+#include "01.hpp"
+#include "02.hpp"
 
+#include "19.hpp"
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    Solution01 *solution = new Solution01();
+    Solution02 *solution = new Solution02();
     solution->generateSolution();
     return 0;
 }
