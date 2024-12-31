@@ -8,12 +8,14 @@
 #include <iostream>
 #include "01.hpp"
 #include "02.hpp"
+#include "03.hpp"
+#include "04.hpp"
 
 #include "19.hpp"
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    Solution02 *solution = new Solution02();
+    Solution04 *solution = new Solution04();
     solution->generateSolution();
     return 0;
 }
